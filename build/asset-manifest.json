@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45b5a092.css",
+    "main.js": "/static/js/main.7403abd8.js",
+    "static/media/Harvard_University_logo.png": "/static/media/Harvard_University_logo.be1fadedb564a0581422.png",
+    "static/media/Humboldt Univ.png": "/static/media/Humboldt Univ.a477bce1a7269ece72af.png",
+    "static/media/University_of_Edinburgh-Logo.png": "/static/media/University_of_Edinburgh-Logo.3ee30cfbf6be842a60f3.png",
+    "static/media/University of Illinois.png": "/static/media/University of Illinois.ffd1a62e29b191d350ee.png",
+    "static/media/profile.png": "/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "static/media/John_Hopkins.png": "/static/media/John_Hopkins.1bff3f0c034552851d37.png",
+    "static/media/Cambridge.jpg": "/static/media/Cambridge.265d56f1e92bdb9d41b0.jpg",
+    "static/media/University_of_California_logo.png": "/static/media/University_of_California_logo.49f209287799c2059439.png",
+    "static/media/profile2.png": "/static/media/profile2.d267a2f5b9581cb8252a.png",
+    "static/media/Max_Planck_Institute.png": "/static/media/Max_Planck_Institute.a251656e35040ebe69a7.png",
+    "static/media/Michigan_State.png": "/static/media/Michigan_State.c79ce34f725e1142a9ea.png",
+    "index.html": "/index.html",
+    "main.45b5a092.css.map": "/static/css/main.45b5a092.css.map",
+    "main.7403abd8.js.map": "/static/js/main.7403abd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b5a092.css",
+    "static/js/main.7403abd8.js"
+  ]
+}
